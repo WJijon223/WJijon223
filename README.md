@@ -25,6 +25,6 @@
 
 🌐 Find me online:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/william-jijon/)  
-🌐 [Visit my web portfolio]([https://wjijon223.github.io/portfolio/](https://williamjijon.netlify.app/))
+🌐 [Visit my web portfolio]((https://williamjijon.netlify.app/))
 
 ---
