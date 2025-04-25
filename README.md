@@ -18,8 +18,8 @@
 
 📌 Pinned Repositories:  
 - [FinTrack (CSC311 Capstone Project)](https://github.com/WJijon223/FinTrack)  
-- [Fisherman Game (Pygame)](https://github.com/WJijon223/Fisherman-Game)  
-- [Beginner React Mood Tracker](https://github.com/WJijon223/Mood-Tracker)
+- [Fisherman Game (Pygame)](https://github.com/WJijon223/fishing-game)  
+- [Beginner React Mood Tracker](https://github.com/WJijon223/mood-tracker-journal)
 
 📈 My GitHub reflects an active commit history and continuous learning through personal and academic projects.
 
