@@ -25,6 +25,6 @@
 
 📈 My GitHub reflects an active commit history and continuous learning through personal and academic projects.
 
-🌐 Find me online: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/william-jijon/)  
+🌐 Find me online(https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/william-jijon/)  
 🌐 [Visit my web portfolio](https://williamjijon.netlify.app/)
 
