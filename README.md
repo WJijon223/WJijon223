@@ -26,5 +26,5 @@
 📈 My GitHub reflects an active commit history and continuous learning through personal and academic projects.
 
 🌐 [Find me online](https://www.linkedin.com/in/william-jijon/)  
-🌐 [Visit my web portfolio](https://williamjijon.netlify.app/)
+🌐 [Visit my web portfolio](https://williamjijon.com)
 
