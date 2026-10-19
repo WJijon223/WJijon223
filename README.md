@@ -1,10 +1,6 @@
 ## 👋 Hi, I'm William Jijon
 
-🎓 I'm a junior Computer Science major at Farmingdale State College with a passion for software engineering, full-stack development, and solving real-world problems through code. I enjoy collaborating on team projects and learning new technologies to build impactful applications.
-
-🔭 Currently working on:  
-- **IntelliSpeech** – A real-time voice chat platform with live translation and voice cloning powered by WebRTC, Socket.IO, Supabase, ElevenLabs, and Google Translate APIs  
-- Exploring backend development and database design
+🎓 I'm a senior Computer Science major at Farmingdale State College with a passion for software engineering, full-stack development, and solving real-world problems through code. I enjoy collaborating on team projects and learning new technologies to build impactful applications.
 
 ## 💻 Tech Stack         
    
